@@ -10,7 +10,7 @@ public class workshop{
 public static void main(String[]args){
 String name = "Umanga";
 System.out.println("My name is : +name");
-System.out.println("Umanga");
+System.out.println("Umanga Adhikari");
 }
 }
 
